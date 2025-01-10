@@ -13,7 +13,7 @@ I'm passionate about **Video Understanding** and **Multi-modal Large Language Mo
 
 - **DEVIAS**: Learning Disentangled Video Representations of Action and Scene for Holistic Video Understanding.  
   *Kyungho Bae†, Geo Ahn†, Youngrae Kim†, and Jinwoo Choi*.  
-  * **ECCV 2024 Oral** (acceptance rate = 2.33%).*  
+  *ECCV 2024 **Oral** (acceptance rate = 2.33%).*
 
 - **GLAD**: Global-Local View Alignment and Background Debiasing for Unsupervised Video Domain Adaptation with Large Domain Gap.  
   *Hyogun Lee†, Kyungho Bae†, Yumin Ko, Seongjong Ha, Gyeongmoon Park*, and Jinwoo Choi*.  
