@@ -5,8 +5,6 @@ I'm passionate about **Video Understanding** and **Multi-modal Large Language Mo
 ---
 
 ## 📚 Publications
-- **MASH-VLM**: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations.  
-  *Kyungho Bae, Jinhyung Kim, Sihaeng Lee, Soonyoung Lee, Gunhee Lee*, and Jinwoo Choi*.  
 
 - **ESSENTIAL**: Episodic and Semantic Memory Integration for Video Class-Incremental Learning.  
   *Jongseo Lee†, Kyungho Bae†, Kyle Min, Gyeongmoon Park*, and Jinwoo Choi*.  
