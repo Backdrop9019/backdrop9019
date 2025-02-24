@@ -6,9 +6,6 @@ I'm passionate about **Video Understanding** and **Multi-modal Large Language Mo
 
 ## 📚 Publications
 
-- **ESSENTIAL**: Episodic and Semantic Memory Integration for Video Class-Incremental Learning.  
-  *Jongseo Lee†, Kyungho Bae†, Kyle Min, Gyeongmoon Park*, and Jinwoo Choi*.  
-
 - **DEVIAS**: Learning Disentangled Video Representations of Action and Scene for Holistic Video Understanding.  
   *Kyungho Bae†, Geo Ahn†, Youngrae Kim†, and Jinwoo Choi*.  
   *ECCV 2024 **Oral** (acceptance rate = 2.33%).*
