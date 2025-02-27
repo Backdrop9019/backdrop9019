@@ -7,8 +7,8 @@ I'm passionate about **Video Understanding** and **Multi-modal Large Language Mo
 ## 📚 Publications
 
 - **MASH-VLM**: Mitigating Action-Scene Hallucination in Video-LLMs through Disentangled Spatial-Temporal Representations.  
-  *Kyungho Bae, Jinhyung Kim, Sihaeng Lee, Soonyoung Lee, Gunhee Lee*, and Jinwoo Choi*.
-  *CVPR 2025.*  
+  *Kyungho Bae, Jinhyung Kim, Sihaeng Lee, Soonyoung Lee, Gunhee Lee*, and Jinwoo Choi*.  
+  *CVPR 2025.*
   
 - **DEVIAS**: Learning Disentangled Video Representations of Action and Scene for Holistic Video Understanding.  
   *Kyungho Bae†, Geo Ahn†, Youngrae Kim†, and Jinwoo Choi*.  
