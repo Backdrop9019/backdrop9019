@@ -22,4 +22,4 @@ I'm passionate about **Video Understanding** and **Multi-modal Large Language Mo
 
 ## 💡 Interests
 - **Video Understanding**  
-- **Multi-modal Large Language Models (LLMs)**
+- **Multi-modal Large Language Models**
